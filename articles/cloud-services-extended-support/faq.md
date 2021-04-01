@@ -1,7 +1,7 @@
 ---
 title: Frequently asked questions for to Azure Cloud Services (extended support)
 description: Frequently asked questions for to Azure Cloud Services (extended support)
-ms.topic: conceptual
+ms.topic: troubleshoot
 ms.service: cloud-services-extended-support
 author: gachandw
 ms.author: gachandw
